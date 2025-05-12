@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Athil!
 
-<!--
-**athilshanmugam/athilshanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Detail-Oriented | Logical Thinker | Creative Technologist**
 
-Here are some ideas to get you started:
+I'm passionate about **design, structured thinking, and technology-driven creativity**. Whether it's coding in **HTML, CSS, and JavaScript**, refining **Power BI dashboards**, or crafting intuitive designs in **Figma**, I thrive on **precision, clarity, and aesthetics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do  
+- **Programming:** HTML, CSS, JavaScript (currently learning)  
+- **Design & Presentation:** Power BI (data visualization), Figma (UI/UX)  
+- **Language & Thought:** Exploring nuanced word meanings, structured thinking  
+- **Tech & Creativity:** Reflecting on automation’s role in human ingenuity  
+
+## 🔍 Interests & Reflections  
+I enjoy tackling **logic puzzles**, improving **presentation aesthetics**, and contemplating the **intersection of automation & creativity**. My work balances analytical depth with thoughtful curiosity.  
+
+## 📫 Let's Connect!  
+Want to collaborate or discuss tech & design? Reach out via [GitHub](https://github.com/athilshanmugam)!  
